@@ -23,7 +23,7 @@ public class modeltabeldataservis extends AbstractTableModel{
 
     @Override
     public int getColumnCount() {
-        return 8;
+        return 9;
     }
     
     @Override
